@@ -154,7 +154,7 @@
 .page-header .container {
     position: relative;
     padding: 45px 0 45px 35px;
-    border-left: 15px solid var(--primary);
+    
 }
 
 .header-carousel .container::before,
@@ -167,7 +167,7 @@
     left: 0;
     width: 100px;
     height: 15px;
-    background: var(--primary);
+ 
 }
 
 .header-carousel .container::after,
@@ -407,4 +407,7 @@
 }
 .navivi {
     background-color: #2B3940;
+}
+.ratbu {
+    background: var(--primary);
 }
